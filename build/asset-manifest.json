@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandaruu/healthyMe/static/css/main.7414943c.css",
+    "main.js": "/Sandaruu/healthyMe/static/js/main.0235f99c.js",
+    "static/js/787.87699d2b.chunk.js": "/Sandaruu/healthyMe/static/js/787.87699d2b.chunk.js",
+    "index.html": "/Sandaruu/healthyMe/index.html",
+    "main.7414943c.css.map": "/Sandaruu/healthyMe/static/css/main.7414943c.css.map",
+    "main.0235f99c.js.map": "/Sandaruu/healthyMe/static/js/main.0235f99c.js.map",
+    "787.87699d2b.chunk.js.map": "/Sandaruu/healthyMe/static/js/787.87699d2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7414943c.css",
+    "static/js/main.0235f99c.js"
+  ]
+}
